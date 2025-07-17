@@ -36,7 +36,7 @@ ul {
 }
 
 li {
-   margin-bottom: 20px
+   margin-bottom: 20px;
 }
 
 blockquote {  
@@ -54,10 +54,10 @@ footer {
 
 body {
   background-color: #ece4e4;
+  font-family: arial, sans-serif;
 }
 
 figure {
   background-color: white;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 0;
 }
